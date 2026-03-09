@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Building real-world full stack applications including a Pharmacy Management System and Factory inventory management ..<br><br>🤝 I’m looking for help with  <br>Advanced system design, scalable backend architecture, and smart contract security.<br><br>🌱 I’m currently learning  <br>System Design, Web3 development, Smart Contracts (Solidity), and high-performance backend engineering.<br><br>💬 Ask me about  <br>JavaScript, React, Next.js, Node.js, REST APIs, MongoDB, Supabase, and building real-world production systems.<br><br>⚡ Fun fact  <br>I love building software that solves real business problems — not just tutorial projects.
+🔭 I’m currently working on  <br>Building real-world full stack applications including a Pharmacy Management System and Factory inventory management ..<br><br>🌱 I’m currently learning  <br>System Design, Web3 development, Smart Contracts (Solidity), and high-performance backend engineering.<br><br>💬 Ask me about  <br>JavaScript, React, Next.js, Node.js, REST APIs, MongoDB, Supabase, and building real-world production systems.<br><br>⚡ Fun fact  <br>I love building software that solves real business problems — not just tutorial projects.
 
 
 ## 🌐 Socials:
